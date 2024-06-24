@@ -1,4 +1,4 @@
-# Coding-Raja-Technology-internship-in-machine-learning-task-1
+# Coding-Raja-Technologies-Internship-in-machine-learning-task-1
 
 Sentiment Analysis on Social Media Data
 
